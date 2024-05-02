@@ -1,29 +1,20 @@
 h1 { 
-
 color:red;
   background-color:pink;
-
+text-align: center;
 } 
-<html>  
- <head>
- <head> 
-   <style>
-  h1 {text-align: center;} 
-  p  {text-align: center;} 
-  h1 {font-size: 40px} 
-  p  {font-size: 35px} 
- <link rel="stylesheet" href="style2.css" type='text/css"/">
-    </style> 
-      </head>
+p{
+font-size: 35px;
+color:lightcoral; 
+text-align: center;
+font-family: Georgia, serif;
+}
+body{
+
+color:pink;
+background-color:black;
 
 
-
-    <body style = "color:pink;background-color:black;font-family:Lorem ipsum dolor sit amet;"> 
-
-   <h1>hello world!</h1> 
-
-  <p> welcome to my web page </p>
-  <p style = "color:lightcoral; welcome to my web page </p>
   
-   </body>
+}
 
