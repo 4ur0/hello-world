@@ -1,7 +1,8 @@
 h1 { 
 color:black;
-  background-color:pink;
-text-align: center;
+background-color:pink;
+text-align: center; 
+font-size: 40px;
 } 
 p{
 font-size: 35px;
