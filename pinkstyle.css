@@ -1,19 +1,19 @@
 h1 { 
 color:floralwhite;
 background-color:grey;
-text-align:center; 
+text-align: center; 
 font-size: 40px;
 font-family: 'Courier New', monospace;
 }
-} 
+ 
 p{
 font-size: 30px;
-color:floralwhite; 
-text-align:center;
+color:white; 
+text-align: center;
 font-family: 'Courier New', monospace;
 }
 
-}
+
 body{
   
 background-image:url(https://i.pinimg.com/564x/48/f8/03/48f803d92ff0a85e7ea1ba2d05d44537.jpg);
